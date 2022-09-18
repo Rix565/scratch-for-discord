@@ -38,7 +38,7 @@ module.exports = {
         allowToChangeInstallationDirectory: true
     },
     linux: {
-        target: "AppImage"
+        target: "zip"
     },
     mac: {
         target: "dmg",
