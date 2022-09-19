@@ -45,7 +45,7 @@ jobs:
             - uses: actions/upload-artifact@v2
               with:
                     name: cool
-                    path: ./builds/app/scratch-for-discord-3.0.0-alpha.0.zip
+                    path: ./scratch-for-discord-2.0.1.zip
 
     mac:
         runs-on: macos-latest
